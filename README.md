@@ -39,4 +39,3 @@ Este projeto é uma aplicação simples em Java para gerenciar uma biblioteca de
 - A interface no `Main` utiliza `Scanner` para entrada de dados e `System.out` para saída.
 - O código está organizado para facilitar manutenção e futuras melhorias.
 
-   git clone https://github.com/seu-usuario/library-p
